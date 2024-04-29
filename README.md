@@ -114,4 +114,8 @@
 
 <h1 align="center">Work History</h1>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stwdsfd&show_icons=true&locale=en&layout=compact" alt="stwdsfd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stwdsfd&show_icons=true&locale=en" alt="stwdsfd" /></p>
+
 ###
