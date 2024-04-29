@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I am smart Programmer.</p>
+<p align="left">It has been 8 years since I entered the path of becoming a program developer. During this time, I participated in the development of several projects and gained a wealth of experience. There have been countless challenges along the way, and I have worked tirelessly to solve them.
+The experience I have accumulated is too much to express in words or writing.
+I am still learning and working to acquire new skills. I would like to collaborate with all developers to further enhance my skills and contribute to the technology.
+Thank you.</p>
 
 ###
 
