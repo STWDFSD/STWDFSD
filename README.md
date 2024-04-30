@@ -1,4 +1,4 @@
-<h1 align="left">𝙃𝙚𝙡𝙡𝙤, 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚!</h1>
+<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚!</h1>
 
 ###
 
@@ -21,7 +21,7 @@ Thank you.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -117,7 +117,7 @@ Thank you.</p>
 
 <h1 align="center">Work History</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stwdfsd&show_icons=true&locale=en&layout=compact" alt="stwdfsd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stwdfsd&show_icons=true&locale=en&layout=compact" alt="stwdfsd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stwdfsd&show_icons=true&locale=en" alt="stwdfsd" /></p>
 
