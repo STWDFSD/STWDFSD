@@ -117,10 +117,10 @@ Thank you.</p>
 
 <h1 align="center">Work History</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stwdfsd&show_icons=true&locale=en&layout=compact" alt="stwdfsd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=STWDFSD&show_icons=true&locale=en&layout=compact" alt="STWDFSD" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stwdfsd&show_icons=true&locale=en" alt="stwdfsd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=STWDFSD&show_icons=true&locale=en" alt="STWDFSD" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stwdfsd&" alt="stwdfsd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=STWDFSD&" alt="STWDFSD" /></p>
 
 ###
